@@ -1,6 +1,8 @@
 # Final-Project-CS203
 
-midproject review labeled CSFinal.zip, Final version labeled CSFinal_NFLStandings.zip
+midproject review labeled CSFinal.zip
+Final version labeled CSFinal_NFLStandings.zip
+
 My project sorts NFL teams according to guidelines set set for the NFL standings found here, https://en.wikipedia.org/wiki/NFL_playoffs#Breaking_ties. In short Teams are sorted according to their win Percentage(games won divided by total games played), if two teams have an equal win percentage, then the teams get sorted according to
 1) winner of head-to-head games
 2) best record within respective divisions
